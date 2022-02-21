@@ -5,3 +5,4 @@
  - pip install pygame
  - cd PathOfRepo
  - python main.py
+<img width="607" alt="Capture d’écran 2022-02-21 à 14 38 02" src="https://user-images.githubusercontent.com/92673379/154967986-01394cd1-98a4-448c-9ac5-bfc17d728c39.png">
